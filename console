@@ -1,0 +1,9 @@
+outer func:  this.name = bar
+outer func:  self.name = bar
+inner func:  this.name = undefined
+inner func:  self.name = bar
+
+
+console .log  prints  variables defined and needed to be displayed the code used console.log to display the variables which are defined in the code.
+
+
